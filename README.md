@@ -44,11 +44,14 @@ Accuracy:
 - GridSearchCV Output
 - Best Parameters
 - Accuracy Output
-
+- these screenshots can be put in github repository in file folder.
+  
+  colab link:
+  
+  https://colab.research.google.com/drive/1iAE9xmAfNAiVN17fypqav5UsKmv6nkWF?usp=sharing
+  
 ## Conclusion
 Successfully optimized the Spam Detection model using GridSearchCV and achieved improved classification performance.
 
 ## Author
-Prasad
-
-Data Science Internship – Edutech Solution
+ Durga Prasad
